@@ -1,4 +1,4 @@
-# losyah_amazing_bot
+# KazuyaBot
  
 Репозиторий содержит скрипт для запуска телеграм бота. 
 Для запуска необходимо предварительно установить <a href="https://lmstudio.ai/">LM Studio</a> и 
